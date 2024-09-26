@@ -1,0 +1,21 @@
+.box{
+    height: auto;
+    width: 400px;
+    background-color: aqua;
+}
+.btn1{
+    width: 10rem;
+    height: 10rem;
+    background-color: rgb(42, 89, 165);
+    
+}
+.btn2{
+    width: 10rem;
+    height: 10rem;
+    background-color: rgb(204, 30, 210);
+}
+.btn{
+    width: 20rem;
+    height: auto;
+    background-color: red;
+}
